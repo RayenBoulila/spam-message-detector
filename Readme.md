@@ -1,5 +1,7 @@
 # 🛡️ Spam Message Detector
 
+![App screenshot](screenshot.png)
+
 A small machine learning project that tells whether an SMS-style message looks like spam. It uses a Naive Bayes classifier trained on real SMS messages and comes with a Streamlit web interface.
 
 I built it step by step to learn the basics of machine learning: from simple `if` rules to a trained and evaluated model.
